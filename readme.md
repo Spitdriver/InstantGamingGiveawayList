@@ -372,7 +372,7 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/KAMUSLOL?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/15057103-1651783439.jpg" alt="KamusLoL" width="76" height="76" />
     </a> 
-    <a class="giveaway" href="https://www.instant-gaming.com/it/giveaway/cooptv?igr=enzomtp" target="_blank" rel="noreferrer">
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/cooptv?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/themes/igv2/images/avatar2.svg" alt="CoopTV" width="76" height="76" />
     </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/HOROKUSSA?igr=enzomtp" target="_blank" rel="noreferrer">
