@@ -310,9 +310,6 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/blackpommes?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/14294886-1712926805.jpg" alt="BlackPommes" width="76" height="76" />
     </a>
-    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/chelseahonk?igr=enzomtp" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/25176461-1730542890.jpg" alt="Chelseahonk" width="76" height="76" />
-    </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/xip4?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/2750068-1715779181.jpg" alt="Xip4" width="76" height="76" />
     </a>
@@ -434,5 +431,8 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/Bayliun?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/25627865-1728920835.jpg" alt="Bayliun" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/chelseahonk?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/25176461-1730542890.jpg" alt="Chelseahonk" width="76" height="76" />
     </a>
 </p>
