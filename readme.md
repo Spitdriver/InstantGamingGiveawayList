@@ -316,6 +316,12 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/xip4?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/2750068-1715779181.jpg" alt="Xip4" width="76" height="76" />
     </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/quantoquevaicustar?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/24567717-1719927759.jpg" alt="Quanto que vai custar" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/eusouocap?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/25089307-1725023867.jpg" alt="Eu sou o Cap" width="76" height="76" />
+    </a>
 </p>
 
 ### Not working anymore
