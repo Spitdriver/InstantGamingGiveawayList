@@ -12,7 +12,7 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
 
 ### Giveaways
 
-<p id="giveaways" align="left">
+<p id="Monthly giveaways" align="left">
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/BOBLENNON" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/12254287-1660306272.jpg" alt="Bob Lennon" width="76" height="76" />
     </a>
@@ -147,9 +147,6 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     </a> 
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/QDSS" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/8851878-1587464483.jpg" alt="QDSS" width="76" height="76" />
-    </a> 
-    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/ELOTRIX" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/9351061-1578514985.jpg" alt="ELoTRiX" width="76" height="76" />
     </a> 
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/NYKK3" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/560668-1500305390.jpg" alt="NYKK3" width="76" height="76" />
@@ -313,14 +310,20 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/xip4" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/2750068-1715779181.jpg" alt="Xip4" width="76" height="76" />
     </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/D4WS7N" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/11756968-1739199689.jpg" alt="D4WS7N" width="76" height="76" />
+    </a>
+</p>
+
+<p id="Bi-weekly giveaways" align="left">
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/ELOTRIX" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/9351061-1578514985.jpg" alt="ELoTRiX" width="76" height="76" />
+    </a> 
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/quantoquevaicustar" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/24567717-1719927759.jpg" alt="Quanto que vai custar" width="76" height="76" />
     </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/eusouocap" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/25089307-1725023867.jpg" alt="Eu sou o Cap" width="76" height="76" />
-    </a>
-    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/D4WS7N" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/11756968-1739199689.jpg" alt="D4WS7N" width="76" height="76" />
     </a>
 </p>
 
