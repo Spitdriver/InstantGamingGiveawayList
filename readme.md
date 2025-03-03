@@ -10,7 +10,7 @@ You just need to create an account on Instant Gaming Website, click on each imag
 
 Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-AutoParticipate) and let it automatically participate.
 
-### Giveaways
+### Monthly giveaways
 
 <p id="Monthly giveaways" align="left">
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/BOBLENNON" target="_blank" rel="noreferrer">
@@ -314,6 +314,8 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
         <img src="https://gaming-cdn.com/images/avatars/11756968-1739199689.jpg" alt="D4WS7N" width="76" height="76" />
     </a>
 </p>
+
+### Bi-weekly giveaways
 
 <p id="Bi-weekly giveaways" align="left">
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/ELOTRIX" target="_blank" rel="noreferrer">
