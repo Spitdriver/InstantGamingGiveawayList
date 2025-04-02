@@ -1,7 +1,6 @@
 {
     "alive": [
         "BOBLENNON",
-        "chaouki",
         "INSTANTGAMING",
         "SUPREMELEADER",
         "ICONOBLAST",
@@ -12,7 +11,6 @@
         "VARG",
         "skyyart",
         "ALKOR",
-        "SEGMENT",
         "ROBERT",
         "GAMEWAVE",
         "RATSUPER",
@@ -43,8 +41,6 @@
         "dutygameplays",
         "INSTANTGAMINGITALIA",
         "INFOPOINT-ITALIA",
-        "FROZ3N",
-        "QDSS",
         "ELOTRIX",
         "NYKK3",
         "PLAYERINSIDE",
@@ -58,10 +54,8 @@
         "KURU",
         "biffa",
         "K0MPA",
-        "howimetyourcat",
         "instantgamingde",
         "INSTANTGAMINGPL",
-        "BENZAIE",
         "snedgie",
         "mitasims",
         "officialinvictus",
@@ -70,8 +64,6 @@
         "frankieslair",
         "GIORNOGAMING",
         "SOLOUMIDO",
-        "GAMERSITACOMMUNITY",
-        "queltaleale",
         "CYBERLUK",
         "STELIUS",
         "CSGOFR",
@@ -95,14 +87,14 @@
         "kemist",
         "MFGAMING",
         "HeyStan",
-        "Cryssness",
         "Drunge",
         "Zazzone230",
         "BlackPommes",
         "Xip4",
         "Quanto que vai custar",
         "Eu sou o Cap",
-        "D4WS7N"
+        "D4WS7N",
+        "TraKe"
     ],
     "dead": [
         "AYPIERRE",
@@ -139,8 +131,16 @@
         "doctorgame",
         "EricLostie",
         "Kahrilo",
-        "TraKe",
         "Bayliun",
-        "Chelseahonk"
+        "Chelseahonk",
+        "chaouki",
+        "SEGMENT",
+        "FROZ3N",
+        "QDSS",
+        "howimetyourcat",
+        "BENZAIE",
+        "GAMERSITACOMMUNITY",
+        "queltaleale",
+        "Cryssness"
     ]
 }
