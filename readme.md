@@ -294,15 +294,6 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
 ### Bi-weekly giveaways
 
 <p id="Bi-weekly giveaways" align="left">
-    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/ELOTRIX" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/9351061-1578514985.jpg" alt="ELoTRiX" width="76" height="76" />
-    </a> 
-    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/quantoquevaicustar" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/24567717-1719927759.jpg" alt="Quanto que vai custar" width="76" height="76" />
-    </a>
-    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/eusouocap" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/25089307-1725023867.jpg" alt="Eu sou o Cap" width="76" height="76" />
-    </a>
 </p>
 
 ### Not working anymore
@@ -442,5 +433,14 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/cryssness" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/3516897-1720037077.jpg" alt="Cryssness" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/ELOTRIX" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/9351061-1578514985.jpg" alt="ELoTRiX" width="76" height="76" />
+    </a> 
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/quantoquevaicustar" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/24567717-1719927759.jpg" alt="Quanto que vai custar" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/eusouocap" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/25089307-1725023867.jpg" alt="Eu sou o Cap" width="76" height="76" />
     </a>
 </p>
