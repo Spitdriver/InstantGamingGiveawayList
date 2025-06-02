@@ -10,9 +10,6 @@ You just need to create an account on Instant Gaming Website, click on each imag
 
 Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-AutoParticipate) and let it automatically participate.
 
-### Note
-
-It seems that InstantGaming has left the giveaways...
 
 ### Monthly giveaways
 
