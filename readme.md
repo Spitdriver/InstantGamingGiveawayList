@@ -1,4 +1,5 @@
 # InstantGaming's Giveaway List
+All the credit goes to [enzomtpYT](https://github.com/enzomtpYT/InstantGamingGiveawayList). 
 
 ## How do i do?
 
