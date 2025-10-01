@@ -306,9 +306,6 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/SKIBCUSIENKO" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/18559681-1662976456.jpg" alt="Skibcusienko" width="76" height="76" />
     </a>
-    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/PODERAK" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/4559777-1593120204.jpg" alt="PoderakGames" width="76" height="76" />
-    </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/losiu" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16899979-1646305428.jpg" alt="Łosiu" width="76" height="76" />
     </a>
@@ -365,6 +362,9 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/miriampetricor" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/28376726-1752697731.jpg" alt="Miriam Petricor" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/locklear" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/themes/igv2/images/avatar2.svg" alt="locklear" width="76" height="76" />
     </a>
 </p>
 
@@ -622,10 +622,10 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/ilvado" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/7406671-1728574369.jpg" alt="ilvado" width="76" height="76" />
     </a>
-    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/locklear" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/themes/igv2/images/avatar2.svg" alt="locklear" width="76" height="76" />
-    </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/minimaleffortgaming" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/24884349-1723653628.jpg" alt="minimaleffortgaming" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/PODERAK" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/4559777-1593120204.jpg" alt="PoderakGames" width="76" height="76" />
     </a>
 </p>
