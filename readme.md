@@ -180,9 +180,6 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/snedgie" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/23507458-1709662317.jpg" alt="snedgie" width="76" height="76" />
     </a> 
-    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/mitasims" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/20860359-1685554038.jpg" alt="Mitasims" width="76" height="76" />
-    </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/officialinvictus" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/21241269-1689851267.jpg" alt="Official Invictus" width="76" height="76" />
     </a>
@@ -627,5 +624,8 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/miriampetricor" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/28376726-1752697731.jpg" alt="Miriam Petricor" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/mitasims" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/20860359-1685554038.jpg" alt="Mitasims" width="76" height="76" />
     </a>
 </p>
