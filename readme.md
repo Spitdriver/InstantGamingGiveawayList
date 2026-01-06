@@ -372,6 +372,12 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/junajted" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/23574068-1710202172.jpg" alt="Junajted" width="76" height="76" />
     </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/polman" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/1737527-1717437939.jpg" alt="polmanzan" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/larsi" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/24158554-1715694536.jpg" alt="Larsi" width="76" height="76" />
+    </a>
 </p>
 
 ### Bi-weekly giveaways
@@ -697,9 +703,6 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/londyslounge" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/25940613-1731628846.jpg" alt="londyslounge" width="76" height="76" />
     </a>
-    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/polman" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/1737527-1717437939.jpg" alt="polmanzan" width="76" height="76" />
-    </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/zellendust" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/677756-1636455633.jpg" alt="ZellenDust" width="76" height="76" />
     </a>
@@ -711,9 +714,6 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/POKEMONRAIDITALIA" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/9405113-1579521322.jpg" alt="Pokémon Go Raid Italia" width="76" height="76" />
-    </a>
-    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/larsi" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/24158554-1715694536.jpg" alt="Larsi" width="76" height="76" />
     </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/gustingorriz" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/7756675-1688778257.jpg" alt="Gustingorriz" width="76" height="76" />
