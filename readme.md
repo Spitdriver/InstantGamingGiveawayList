@@ -46,7 +46,7 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
         <img src="https://gaming-cdn.com/images/avatars/452863-1561392211.jpg" alt="CoDQG" width="76" height="76" />
     </a> 
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/NALFEINN" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/2210688-1649113160.jpg" alt="Nalfeïnn" width="76" height="76" />
+        <img src="https://gaming-cdn.com/images/avatars/2210688-1763041280.jpg" alt="Nalfeïnn" width="76" height="76" />
     </a> 
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/VARG" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/5518320-1553640087.jpg" alt="Varg31" width="76" height="76" />
