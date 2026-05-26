@@ -18,15 +18,15 @@
 
 | Section | Count |
 | --- | ---: |
-| Active giveaways | 139 |
-| Inactive giveaways | 184 |
+| Active giveaways | 142 |
+| Inactive giveaways | 193 |
 
 ## Active Giveaways
 
 Use these links to participate manually.
 
 <details open>
-<summary><strong>Show active giveaway links (139)</strong></summary>
+<summary><strong>Show active giveaway links (142)</strong></summary>
 
 
 - [BOBLENNON](https://www.instant-gaming.com/fr/giveaway/BOBLENNON?igr=jaha)
@@ -168,6 +168,9 @@ Use these links to participate manually.
 - [hardware31](https://www.instant-gaming.com/fr/giveaway/hardware31?igr=jaha)
 - [deezgames](https://www.instant-gaming.com/fr/giveaway/deezgames?igr=jaha)
 - [IIP](https://www.instant-gaming.com/fr/giveaway/IIP?igr=jaha)
+- [RetroRaider](https://www.instant-gaming.com/fr/giveaway/RetroRaider?igr=jaha)
+- [steamdeckmaniaofficial](https://www.instant-gaming.com/fr/giveaway/steamdeckmaniaofficial?igr=jaha)
+- [slashingcreeps](https://www.instant-gaming.com/fr/giveaway/slashingcreeps?igr=jaha)
 
 </details>
 
@@ -176,7 +179,7 @@ Use these links to participate manually.
 These links are kept for archive/reference and may no longer be valid.
 
 <details>
-<summary><strong>Show inactive giveaway links (184)</strong></summary>
+<summary><strong>Show inactive giveaway links (193)</strong></summary>
 
 - [AYPIERRE](https://www.instant-gaming.com/fr/giveaway/AYPIERRE?igr=jaha)
 - [linca](https://www.instant-gaming.com/fr/giveaway/linca?igr=jaha)
@@ -362,6 +365,15 @@ These links are kept for archive/reference and may no longer be valid.
 - [czardus](https://www.instant-gaming.com/fr/giveaway/czardus?igr=jaha)
 - [PLANETAGRACZA](https://www.instant-gaming.com/fr/giveaway/PLANETAGRACZA?igr=jaha)
 - [supercorris84](https://www.instant-gaming.com/fr/giveaway/supercorris84?igr=jaha)
+- [thegamingrevolution](https://www.instant-gaming.com/fr/giveaway/thegamingrevolution?igr=jaha)
+- [hitman89](https://www.instant-gaming.com/fr/giveaway/hitman89?igr=jaha)
+- [dumplinsiims](https://www.instant-gaming.com/fr/giveaway/dumplinsiims?igr=jaha)
+- [josephwitty](https://www.instant-gaming.com/fr/giveaway/josephwitty?igr=jaha)
+- [alineasmr](https://www.instant-gaming.com/fr/giveaway/alineasmr?igr=jaha)
+- [petimint](https://www.instant-gaming.com/fr/giveaway/petimint?igr=jaha)
+- [indianajonesnerd](https://www.instant-gaming.com/fr/giveaway/indianajonesnerd?igr=jaha)
+- [realkev3n](https://www.instant-gaming.com/fr/giveaway/realkev3n?igr=jaha)
+- [lowbudgetgaming](https://www.instant-gaming.com/fr/giveaway/lowbudgetgaming?igr=jaha)
 
 </details>
 
