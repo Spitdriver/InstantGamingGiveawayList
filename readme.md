@@ -18,15 +18,15 @@
 
 | Section | Count |
 | --- | ---: |
-| Active giveaways | 136 |
-| Inactive giveaways | 181 |
+| Active giveaways | 139 |
+| Inactive giveaways | 184 |
 
 ## Active Giveaways
 
 Use these links to participate manually.
 
 <details open>
-<summary><strong>Show active giveaway links (136)</strong></summary>
+<summary><strong>Show active giveaway links (139)</strong></summary>
 
 
 - [BOBLENNON](https://www.instant-gaming.com/fr/giveaway/BOBLENNON?igr=jaha)
@@ -165,6 +165,9 @@ Use these links to participate manually.
 - [imkombo](https://www.instant-gaming.com/fr/giveaway/imkombo?igr=jaha)
 - [luc1dg](https://www.instant-gaming.com/fr/giveaway/luc1dg?igr=jaha)
 - [xanderracing](https://www.instant-gaming.com/fr/giveaway/xanderracing?igr=jaha)
+- [hardware31](https://www.instant-gaming.com/fr/giveaway/hardware31?igr=jaha)
+- [deezgames](https://www.instant-gaming.com/fr/giveaway/deezgames?igr=jaha)
+- [IIP](https://www.instant-gaming.com/fr/giveaway/IIP?igr=jaha)
 
 </details>
 
@@ -173,7 +176,7 @@ Use these links to participate manually.
 These links are kept for archive/reference and may no longer be valid.
 
 <details>
-<summary><strong>Show inactive giveaway links (181)</strong></summary>
+<summary><strong>Show inactive giveaway links (184)</strong></summary>
 
 - [AYPIERRE](https://www.instant-gaming.com/fr/giveaway/AYPIERRE?igr=jaha)
 - [linca](https://www.instant-gaming.com/fr/giveaway/linca?igr=jaha)
@@ -356,6 +359,9 @@ These links are kept for archive/reference and may no longer be valid.
 - [goldpeaking](https://www.instant-gaming.com/fr/giveaway/goldpeaking?igr=jaha)
 - [awesomepcgames](https://www.instant-gaming.com/fr/giveaway/awesomepcgames?igr=jaha)
 - [nabiieplays](https://www.instant-gaming.com/fr/giveaway/nabiieplays?igr=jaha)
+- [czardus](https://www.instant-gaming.com/fr/giveaway/czardus?igr=jaha)
+- [PLANETAGRACZA](https://www.instant-gaming.com/fr/giveaway/PLANETAGRACZA?igr=jaha)
+- [supercorris84](https://www.instant-gaming.com/fr/giveaway/supercorris84?igr=jaha)
 
 </details>
 
