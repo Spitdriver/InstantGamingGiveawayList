@@ -389,6 +389,9 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/eusouocap" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/25089307-1725023867.jpg" alt="Eu sou o Cap" width="76" height="76" />
     </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/zellendust" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/677756-1636455633.jpg" alt="ZellenDust" width="76" height="76" />
+    </a>
 </p>
 
 ### Not working anymore
@@ -702,9 +705,6 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/londyslounge" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/25940613-1731628846.jpg" alt="londyslounge" width="76" height="76" />
-    </a>
-    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/zellendust" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/677756-1636455633.jpg" alt="ZellenDust" width="76" height="76" />
     </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/kakosxamos" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/1147598-1731513291.jpg" alt="KakosXamos" width="76" height="76" />
